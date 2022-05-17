@@ -3,7 +3,7 @@ module github.com/qiniu/goc
 go 1.13
 
 require (
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.7.0
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/hashicorp/go-retryablehttp v0.6.6
 	github.com/julienschmidt/httprouter v1.2.0
